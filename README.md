@@ -49,8 +49,7 @@ To set up and run this project locally, follow these steps:
 
 3. **Configure the database:**
 
-    - Create a MySQL database.
-    - Update the `.env` file with your database configuration.
+    - install  MySQL workbench/server.
 
 
 4. **Start the server:**
